@@ -1,0 +1,27 @@
+A:link {
+	FONT-SIZE: 9pt; BORDER-LEFT-COLOR: #cc0000; BORDER-BOTTOM-COLOR: #cc3300; BORDER-TOP-COLOR: #cc0000; LINE-HEIGHT: 15px; TEXT-DECORATION: none; BORDER-RIGHT-COLOR: #cc0000
+}
+A:hover {
+	FONT-SIZE: 9pt; LINE-HEIGHT: 15px; TEXT-DECORATION: underline
+}
+A:visited {
+	FONT-SIZE: 9pt; LINE-HEIGHT: 15px; TEXT-DECORATION: none
+}
+.tab_bor1 {
+	BORDER-RIGHT: #0478c5 1px solid; BORDER-TOP: #0478c5 1px solid; BORDER-LEFT: #0478c5 1px solid; BORDER-BOTTOM: #0478c5 1px solid
+}
+.tab_bor2 {
+	BORDER-RIGHT: #999999 1px solid; BORDER-TOP: #999999 1px solid; BORDER-LEFT: #999999 1px solid; BORDER-BOTTOM: #999999 1px solid
+}
+.tb_top1 {
+	BORDER-RIGHT: #64b7d7 1px solid; BORDER-TOP: #64b7d7 1px solid; BORDER-LEFT: #64b7d7 1px solid; BORDER-BOTTOM: #64b7d7 1px solid
+}
+.intdt {
+	FONT-WEIGHT: bolder; FONT-SIZE: 16px; COLOR: #ffffff; LINE-HEIGHT: 25pt
+}
+.intbt {
+	FONT-WEIGHT: bolder; FONT-SIZE: 14px; COLOR: #ffffff; LINE-HEIGHT: 25pt
+}
+TD {
+	FONT-SIZE: 9pt
+}
